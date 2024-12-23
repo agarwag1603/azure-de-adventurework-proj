@@ -1,0 +1,13 @@
+{
+	"name": "Json_Parameter",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/anshlamba03/Adventure-Works-Data-Engineering-Project/refs/heads/main/Reference%20Script/git.json",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "dataengineeringadf1603",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "433d2d2f-2728-40be-9c6b-345df448809e",
+		"tenantId": "aeb22b0f-5025-4ae0-a8d2-56d62d472597"
+	}
+}
